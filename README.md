@@ -22,8 +22,9 @@ I'm Jad, a Computer & Communications Engineering student from 🇱🇧 Lebanon, 
 
 ## About me
 
-- 🎓 Second-year CCNE student at Lebanese University – Abey
-- 💼 Web Developer Intern @ IDS — building full-stack apps with TypeScript + ASP.NET
-- 💼 Web Developer Intern @ IDSfinetech — building full-stack apps with React + ASP.NET
-- 🌱 Currently learning: advanced backend patterns and database optimization
+- 🎓 Computer and Communication Engineering (CCNE) graduate from Lebanese University
+- 💻 Full-Stack Developer with experience in React, JavaScript, TypeScript, ASP.NET, Node.js, Laravel, HTML, CSS, and MySQL
+- 🚀 Built full-stack web applications through internships and personal projects
+- 🌱 Currently improving my backend development skills and learning advanced backend patterns and database optimization
 - 📫 Reach me: baddourjad78@gmail.com
+- 
